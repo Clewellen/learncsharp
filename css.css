@@ -1,0 +1,10 @@
+body{
+    background-color:lightgrey;
+    
+}
+
+div.box1{
+    border-style: groove;
+    margin: 50px 50px 50px 50px;
+  padding: 20px 20px 20px 40px;
+}
